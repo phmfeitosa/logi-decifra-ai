@@ -188,12 +188,12 @@ logi-decifra-ai/
 
 ## Tecnologias
 
-- **C (C11)** com `gcc` e `make`
-- **raylib**: interface gráfica (`make run-gui`)
-- **ANSI/termios**: interface de terminal
-- **ffplay (ffmpeg)**: trilha sonora (opcional)
-- **GitHub Actions**: compilação, `cppcheck` e testes a cada push e PR
-- **Jira**: backlog e board
+- *C (C11)* com gcc e make
+- *raylib*: interface gráfica (make run-gui)
+- *ANSI/termios*: interface de terminal
+- *ffplay (ffmpeg)*: trilha sonora (opcional)
+- *GitHub Actions*: compilação, cppcheck e testes a cada push e PR
+- *Jira*: backlog e board
 
 ## Como compilar e rodar
 
